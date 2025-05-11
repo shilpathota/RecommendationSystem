@@ -20,7 +20,8 @@ A smart, age-appropriate video recommendation system for kids, powered by the Yo
 ```
 ├── age_query_mapping.csv     # Mapping of age groups to queries and categories
 ├── youtube_kids_data.csv     # Output of recommended videos
-├── main_notebook.ipynb       # Google Colab notebook with full logic
+├── RecommendationSystem.ipynb       # Google Colab notebook with full logic
+├── EnhancedRecommendationSystem.ipynb       # Google Colab notebook with full logic
 ├── README.md                 # Project overview
 ```
 
